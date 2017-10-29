@@ -4,6 +4,8 @@
 * [1.Feature](1.Features.md)
 * [I.Cloud Native Applications](I.Cloud-Native-Applications.md) 
   * [2. Spring Cloud Context: Application Context Services](/I.Cloud-Native-Applications/2.Spring-Cloud-Context-Application-Context-Services.md)
+  * [3.Spring Cloud Commons: Common Abstractions](/I.Cloud-Native-Applications/3.Spring-Cloud-Commons-Common-Abstractions.md)
+* [II. Spring Cloud Config](ii-spring-cloud-config.md)
 * [III. Spring Cloud Netflix](III-Spring-Cloud-Netflix.md) 
   * [11. Service Discovery: Eureka Clients](/iii-spring-cloud-netflix/11. Service Discovery-Eureka Clients.md)
   * [12. Service Discovery: Eureka Server](/iii-spring-cloud-netflix/12. Service Discovery-Eureka Server.md)
@@ -17,4 +19,3 @@
   * [20. Polyglot support with Sidecar](/iii-spring-cloud-netflix/20. Polyglot support with Sidecar.md)
   * [21. RxJava with Spring MVC](/iii-spring-cloud-netflix/21. RxJava with Spring MVC.md)
   * [22. Metrics-Spectator Servo and Atlas](/iii-spring-cloud-netflix/22. Metrics-Spectator Servo and Atlas.md)
-* [II. Spring Cloud Config](ii-spring-cloud-config.md)
