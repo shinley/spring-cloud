@@ -7,6 +7,7 @@
   * [3.Spring Cloud Commons: Common Abstractions](/I.Cloud-Native-Applications/3.Spring-Cloud-Commons-Common-Abstractions.md)
 * [II. Spring Cloud Config](ii-spring-cloud-config.md) 
   * [4.Quick Stat](/ii-spring-cloud-config/4.Quick-Start.md)
+  * [5. Spring Cloud Config Server](/ii-spring-cloud-config/5.Spring-Cloud-Config-Server.md)
 * [III. Spring Cloud Netflix](III-Spring-Cloud-Netflix.md) 
   * [11. Service Discovery: Eureka Clients](/iii-spring-cloud-netflix/11. Service Discovery-Eureka Clients.md)
   * [12. Service Discovery: Eureka Server](/iii-spring-cloud-netflix/12. Service Discovery-Eureka Server.md)
