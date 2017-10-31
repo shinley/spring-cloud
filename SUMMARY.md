@@ -11,6 +11,7 @@
   * [6. Serving Alternative Formats](/ii-spring-cloud-config/6. Serving-Alternative-Formats.md)
   * [7.Serving Plain Text](/ii-spring-cloud-config/7. Serving-Plain-Text.md)
   * [8.Embedding the Config Server](/ii-spring-cloud-config/8. Embedding-the-Config-Server.md)
+  * [9. Push Notifications and Spring Cloud Bus](/ii-spring-cloud-config/9. Push-Notifications-and-Spring-Cloud Bus.md)
 * [III. Spring Cloud Netflix](III-Spring-Cloud-Netflix.md)
   * [11. Service Discovery: Eureka Clients](/iii-spring-cloud-netflix/11. Service Discovery-Eureka Clients.md)
   * [12. Service Discovery: Eureka Server](/iii-spring-cloud-netflix/12. Service Discovery-Eureka Server.md)
