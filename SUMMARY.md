@@ -8,6 +8,7 @@
 * [II. Spring Cloud Config](ii-spring-cloud-config.md)
   * [4.Quick Stat](/ii-spring-cloud-config/4.Quick-Start.md)
   * [5. Spring Cloud Config Server](/ii-spring-cloud-config/5.Spring-Cloud-Config-Server.md)
+  * [6. Serving Alternative Formats](https://cloud.spring.io/spring-cloud-static/Dalston.SR4/multi/multi__serving_alternative_formats.html)
 * [III. Spring Cloud Netflix](III-Spring-Cloud-Netflix.md)
   * [11. Service Discovery: Eureka Clients](/iii-spring-cloud-netflix/11. Service Discovery-Eureka Clients.md)
   * [12. Service Discovery: Eureka Server](/iii-spring-cloud-netflix/12. Service Discovery-Eureka Server.md)
