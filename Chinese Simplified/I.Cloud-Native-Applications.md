@@ -1,16 +1,16 @@
-# crwdns382:0crwdne382:0
+# Part I. Cloud Native Applications
 
-crwdns1455:0crwdne1455:0 crwdns384:0crwdne384:0 crwdns385:0crwdne385:0
+[Cloud Native](https://pivotal.io/platform-as-a-service/migrating-to-cloud-native-application-architectures-ebook) is a style of application development that encourages easy adoption of best practices in the areas of continuous delivery and value-driven development. A related discipline is that of building[12-factor Apps](http://12factor.net/)in which development practices are aligned with delivery and operations goals, for instance by using declarative programming and management and monitoring. Spring Cloud facilitates these styles of development in a number of specific ways and the starting point is a set of features that all components in a distributed system either need or need easy access to when required.
 
-crwdns1456:0crwdne1456:0 crwdns387:0crwdne387:0 crwdns1457:0crwdne1457:0 crwdns1458:0crwdne1458:0 crwdns390:0crwdne390:0 crwdns1459:0crwdne1459:0
+Many of those features are covered by [Spring Boot](https://projects.spring.io/spring-boot), which we build on in Spring Cloud. Some more are delivered by Spring Cloud as two libraries: Spring Cloud Context and Spring Cloud Commons. Spring Cloud Context provides utilities and special services for the `ApplicationContext` of a Spring Cloud application (bootstrap context, encryption, refresh scope and environment endpoints). Spring Cloud Commons is a set of abstractions and common classes used in different Spring Cloud implementations (eg. Spring Cloud Netflix vs. Spring Cloud Consul).
 
-crwdns1460:0crwdne1460:0 crwdns393:0crwdne393:0
+If you are getting an exception due to "Illegal key size" and you are using Sun’s JDK, you need to install the Java Cryptography Extension (JCE) Unlimited Strength Jurisdiction Policy Files. See the following links for more information:
 
-[crwdns395:0crwdne395:0](crwdns394:0crwdne394:0)
+[Java 6 JCE](http://www.oracle.com/technetwork/java/javase/downloads/jce-6-download-429243.html)
 
-* [crwdns397:0crwdne397:0](crwdns396:0crwdne396:0)
-* [crwdns399:0crwdne399:0](crwdns398:0crwdne398:0)
+* [Java 7 JCE](http://www.oracle.com/technetwork/java/javase/downloads/jce-7-download-432124.html)
+* [Java 8 JCE](http://www.oracle.com/technetwork/java/javase/downloads/jce8-download-2133166.html)
 
-crwdns1461:0crwdne1461:0
+Extract files into JDK/jre/lib/security folder (whichever version of JRE/JDK x64/x86 you are using).
 
-crwdns401:0crwdne401:0 crwdns402:0crwdne402:0
+Spring Cloud is released under the non-restrictive Apache 2.0 license. If you would like to contribute to this section of the documentation or if you find an error, please find the source code and issue trackers in the project at [github](https://github.com/spring-cloud/spring-cloud-commons/tree/master/docs/src/main/asciidoc).
