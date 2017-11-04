@@ -1,7 +1,3 @@
----
-id: readme
-title: readme
----
 
 # My Awesome Book
 
