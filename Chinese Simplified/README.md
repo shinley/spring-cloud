@@ -1,9 +1,9 @@
 * * *
 
-crwdns2604:0crwdne2604:0
+id: readme title: readme
 
 * * *
 
-# crwdns1333:0crwdne1333:0
+# My Awesome Book
 
-crwdns2605:0crwdne2605:0
+This file file serves as your book's preface, a great place to describe your book's content and ideas.
