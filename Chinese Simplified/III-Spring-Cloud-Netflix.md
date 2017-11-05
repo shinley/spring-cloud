@@ -2,4 +2,4 @@
 
 **1.3.5.BUILD-SNAPSHOT**
 
-This project provides Netflix OSS integrations for Spring Boot apps through autoconfiguration and binding to the Spring Environment and other Spring programming model idioms. With a few simple annotations you can quickly enable and configure the common patterns inside your application and build large distributed systems with battle-tested Netflix components. The patterns provided include Service Discovery (Eureka), Circuit Breaker (Hystrix), Intelligent Routing (Zuul) and Client Side Load Balancing (Ribbon).
+该项目提供的通过自动配置和绑定到Spring的环境和其他Spring编程模型来为Spring Boot应用程序提供Netflix OSS集成. 通过几个简单的注解，您可以快速启用和配置应用程序中的常见模式，并通过经过测试的Netflix组件构建大型分布式系统. 提供的模式包括服务发现（Enreka），断路器（Hystrix），智能路由（Zuul）和客户端负载均衡（Ribbon）.
